@@ -1,0 +1,15 @@
+# compiled classes
+out/
+*.class
+# database created at first run
+*.db
+# downloaded jars (see lib/README.md)
+lib/*.jar
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
